@@ -43,7 +43,7 @@ Collaborated with a Linguistic professor and other research assistants to build 
 
 ## Projects
 
-**TripAdvisor Review Analysis | Personal Project | Jul 2024**
+**Tripadvisor Review Analysis | Personal Project | Jul 2024**
 
 - Language & Technologies: Python (Pandas, Seaborn, NLTK, Tensorflow, Keras)
    
