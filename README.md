@@ -59,5 +59,13 @@ Collaborated with a Linguistic professor and other research assistants to build 
 
 - Built a logistic regression model in R with an accuracy rate of 90% to predict a customer’s likelihood of purchasing term deposits. 
 
-- Collaborated with 4 other undergraduate students to derive business values and provide suggestions to improve the term deposit subscription rate. 
+- Collaborated with 4 other undergraduate students to derive business values and provide suggestions to improve the term deposit subscription rate.
+
+**VPD Crime Data Predictive Analysis   | CMPT353 - Computational Data Science | Aug 2023**
+
+- Extracted and processed 4 files of publicly available crime data on the Vancouver Police Department website. 
+
+- Utilized statistical methods to identify patterns of crime report before, during, and after the COVID-19 pandemic.
+
+
 
