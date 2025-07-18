@@ -1,12 +1,12 @@
 # Portfolio - Chelsy Nguyen
-Email: npchelsy@gmail.com <br>
+Email: blance219@gmail.com <br>
 LinkedIn: [Chelsy Nguyen](linkedin.com/in/npchelsy)  
 
 ## Education 
 
 **B.S. in Data Science**, Simon Fraser University (BC, Canada) | Sep 2021 - Aug 2025
 
-**Current GPA**: 4.11/4.33         
+**Current GPA**: 4.13/4.33         
 
 **Coursework**: Computational Data Science, Data Structures and Algorithms, Database Systems, Customer Analytics, Business Communication       
 
@@ -34,7 +34,13 @@ Collaborated with a Linguistic professor and other research assistants to build 
 
 - Met with the team biweekly to discuss the work progress, presenting valuable facts on the dataset and showcasing how the data and common ML methods can be utilized to study linguistic problems.
 
-**Literacy Tutor | Friends of Simon Tutoring Program | Burnaby, BC | Jan 2023 - Present**
+**Research Volunteer (Remote) | Department of Linguistics, SFU | Burnaby, BC | Jan 2025 - Apr 2025**
+
+- Investigated the use of Graph Neural Networks (GNN) to classify protein networks, focusing on the ability to detect significant subgraphs within networks.
+  
+- Applied and visualized an Explainer AI method, successfully highlighted important nodes that the GNNs used for protein networks classification. 
+
+**Literacy Tutor | Friends of Simon Tutoring Program | Burnaby, BC | Jan 2023 - Jun 2025**
 
 - Tutored over 100 K-12 students across Lower Mainland Vancouver, supporting students academically and socially.
 
@@ -42,6 +48,24 @@ Collaborated with a Linguistic professor and other research assistants to build 
 
 
 ## Projects
+
+**[Synthetic Data Generation] | BUS439 - Analytics Project | Jan - Apr 2025**
+
+- Language & Technologies: Python (Pandas, SDV, SynthEval)
+
+- Researched different frameworks to synthesize single-table data.
+  
+- Utilized Synthetic Data Vault library in Python to generate consumer data for research and analysis while ensuring privacy.
+  
+- Evaluate synthetic data’s qualities based on key statistical metrics, including statistical similarities and data privacy.
+
+**[Synthetic Data Generation] | Protein Network Classification | Oct - Dec 2024**
+
+- Language & Technologies: Python (Pandas, PyTorch Geometric)
+
+- Collaborated with teammates to generated 200 synthetic protein networks in the form of point clouds.
+
+- Collaborated with 4 other students to build and evaluate 3 Graph Neural Network (GNN) models, achieving over 95% accuracy, precision, and recall on real and synthetic data.
 
 **[Tripadvisor Review Analysis](https://github.com/NPChelsy/tripad_nlp) | Personal Project | Jul 2024**
 
@@ -51,7 +75,7 @@ Collaborated with a Linguistic professor and other research assistants to build 
 
 - Identified 3 common problems related to TripAdvisor’s services through sentiment analysis and topic modeling. 
 
-**Term Deposit Subscription Analysis  | BUS445 - Customer Analytics Project | Jul 2024**
+**Term Deposit Subscription Analysis  | BUS445 - Customer Analytics | Jul 2024**
 
 - Language & Technologies: R (ggplot2, dplyr), R Markdown
 
