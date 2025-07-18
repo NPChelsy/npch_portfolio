@@ -49,7 +49,7 @@ Collaborated with a Linguistic professor and other research assistants to build 
 
 ## Projects
 
-**[Synthetic Data Generation] | BUS439 - Analytics Project | Jan - Apr 2025**
+**Synthetic Data Generation | BUS439 - Analytics Project | Jan - Apr 2025**
 
 - Language & Technologies: Python (Pandas, SDV, SynthEval)
 
@@ -59,7 +59,7 @@ Collaborated with a Linguistic professor and other research assistants to build 
   
 - Evaluate synthetic data’s qualities based on key statistical metrics, including statistical similarities and data privacy.
 
-**[Synthetic Data Generation] | Protein Network Classification | Oct - Dec 2024**
+**Synthetic Data Generation | Protein Network Classification | Oct - Dec 2024**
 
 - Language & Technologies: Python (Pandas, PyTorch Geometric)
 
