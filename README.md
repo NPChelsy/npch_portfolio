@@ -1,5 +1,5 @@
 # Portfolio - Chelsy Nguyen
-Email: blance219@gmail.com <br>
+Email: tmn12@gmail.com <br>
 LinkedIn: [Chelsy Nguyen](linkedin.com/in/npchelsy)  
 
 ## Education 
