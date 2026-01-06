@@ -1,50 +1,51 @@
 # Portfolio - Chelsy Nguyen
-Email: tmn12@gmail.com <br>
+Email: tmn12@sfu.ca <br>
 LinkedIn: [Chelsy Nguyen](linkedin.com/in/npchelsy)  
 
 ## Education 
+**M.Sc. in Statistics**, Simon Fraser University (BC, Canada) | Sep 2025 - Current
+
+**CGPA**: 4.00/4.33         
+
+**Coursework**: Linear Models and Applications       
+
 
 **B.S. in Data Science**, Simon Fraser University (BC, Canada) | Sep 2021 - Aug 2025
 
-**Current GPA**: 4.13/4.33         
+**CGPA**: 4.15/4.33         
 
 **Coursework**: Computational Data Science, Data Structures and Algorithms, Database Systems, Customer Analytics, Business Communication       
 
 ## Skills
-**Languages & Frameworks** :  R (Tidyverse, Ggplot2), Python (Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK), SQL, LaTeX
+**Languages & Frameworks** :  R (tidyverse, ggplot2, glmnet), Python (Pandas, Scikit-learn, PyTorch, Matplotlib, Seaborn, NLTK, BeautifulSoup, Selenium, SDV), SQL, LaTeX
 
-**Technologies**: Git, Excel, RStudio, Jupyter Notebook, VSCode, Overleaf, Zotero
+**Technologies**: RStudio, Jupyter Notebook, Tableau, VSCode, Overleaf, Git, Excel
 
-**Domains**: Natural Language Processing (NLP), Statistical Analysis, Predictive Analytics, Data Visualization
-
-**Soft skills**: Analytical Thinking, Communication and Collaboration Skills, Problem-Solving 
+**Domains**: Statistical modeling, deep learning, synthetic data, natural language processing (NLP)
 
 
 ## Experience
 
-**Research Assistant (Remote) | Department of Linguistics, SFU | Burnaby, BC | Jan 2024 - Present**
+**Research Assistant (Remote) | Department of Linguistics, SFU | Burnaby, BC | Jan 2024 - Aug 2025**
 
-Processed and organized 211 research articles on Equity, Diversity, and Inclusion (EDI) into a comprehensive digital library.
+- Utilized Python libraries, data processing methods, and data scraping tools to process a Hindi Treebank, and successfully extracted 6000+ entries and 19 linguistic features, suitable for ML tasks. 
 
-Collaborated with a Linguistic professor and other research assistants to build an ML model for predicting Hindi’s grammatical genders.
+- Maintained frequent communication and collaborative work with the professor and Hindi native speakers through biweekly meetings on Zoom and Teams to refine the dataset and improve ML models. 
 
-- Researched on various ML models for predicting grammatical genders in French and Nakh, including Random Forest, Logistic Regression, RNNs, and Bidirectional LSTM models.
-  
-- Transformed the Hindi Treebank provided by the Universal Dependencies into a dataset with various linguistic features for ML and NLP tasks.
+- Researched and implemented 4 classifiers and 2 neural network models to predict grammatical gender with linguistic features, successfully discovered how inflection boosts prediction accuracy.
 
-- Met with the team biweekly to discuss the work progress, presenting valuable facts on the dataset and showcasing how the data and common ML methods can be utilized to study linguistic problems.
 
 **Research Volunteer (Remote) | Department of Linguistics, SFU | Burnaby, BC | Jan 2025 - Apr 2025**
 
-- Investigated the use of Graph Neural Networks (GNN) to classify protein networks, focusing on the ability to detect significant subgraphs within networks.
-  
-- Applied and visualized an Explainer AI method, successfully highlighted important nodes that the GNNs used for protein networks classification. 
+- Developed and improved 3 Graph Neural Networks (GNN) with PyTorch Geometric to classify protein networks, achieving over 95% accuracy on real and synthetic protein clouds. 
+
+- Applied Explainer AI methods with PyTorch’s GNNExplainer, and used visualization in Python to highlight GNNExplainer’s result on 3D graphs. 
+
 
 **Literacy Tutor | Friends of Simon Tutoring Program | Burnaby, BC | Jan 2023 - Jun 2025**
 
-- Tutored over 100 K-12 students across Lower Mainland Vancouver, supporting students academically and socially.
-
-- Collaborated with other tutors to organize weekly learning activities, successfully enhancing students’ numeracy and literacy skills.
+- Provided academic and social support to 200+ newcomer K-12 students across 7 schools in Lower Mainland Vancouver through weekly educational activities. 
+- Collaborated with tutors and educators to host field trips to SFU Burnaby campus, allowing 2oo+ students to engage in fun, enriching workshops and team-building activities. 
 
 
 ## Projects
@@ -75,7 +76,7 @@ Collaborated with a Linguistic professor and other research assistants to build 
 
 - Identified 3 common problems related to TripAdvisor’s services through sentiment analysis and topic modeling. 
 
-**Term Deposit Subscription Analysis  | BUS445 - Customer Analytics | Jul 2024**
+**Term Deposit Subscription Analysis  | Personal Project | Jul 2024**
 
 - Language & Technologies: R (ggplot2, dplyr), R Markdown
 
@@ -86,6 +87,8 @@ Collaborated with a Linguistic professor and other research assistants to build 
 - Collaborated with 4 other undergraduate students to derive business values and provide suggestions to improve the term deposit subscription rate.
 
 **VPD Crime Data Predictive Analysis   | CMPT353 - Computational Data Science | Aug 2023**
+
+- Language & Technologies: Python (scikit-learn), VSCode, Jupyter Notebook
 
 - Extracted and processed 4 files of publicly available crime data on the Vancouver Police Department website. 
 
