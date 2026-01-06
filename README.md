@@ -60,13 +60,6 @@ LinkedIn: [Chelsy Nguyen](linkedin.com/in/npchelsy)
   
 - Evaluate synthetic data’s qualities based on key statistical metrics, including statistical similarities and data privacy.
 
-**Synthetic Data Generation | Protein Network Classification | Oct - Dec 2024**
-
-- Language & Technologies: Python (Pandas, PyTorch Geometric)
-
-- Collaborated with teammates to generated 200 synthetic protein networks in the form of point clouds.
-
-- Collaborated with 4 other students to build and evaluate 3 Graph Neural Network (GNN) models, achieving over 95% accuracy, precision, and recall on real and synthetic data.
 
 **[Tripadvisor Review Analysis](https://github.com/NPChelsy/tripad_nlp) | Personal Project | Jul 2024**
 
